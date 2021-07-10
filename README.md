@@ -1,4 +1,4 @@
-# jQuery Cheat sheet
+# jQuery cheat sheet
 
 ## `.find`
 
