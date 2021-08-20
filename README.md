@@ -1,5 +1,22 @@
 # jQuery cheat sheet
 
+Table of Contents
+
+find
+hide
+show
+html
+text
+val
+append
+prepend 
+css
+attr
+data
+on
+off
+each
+
 ## `.find`
 
 > is a method that searches through the descendants(child) in the DOM tree and gets all child elements. Will move through multiple levels of children.
