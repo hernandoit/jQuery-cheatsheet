@@ -1,21 +1,21 @@
-# jQuery cheat sheet
+# `jQuery cheat sheet`
 
-Table of Contents
+`Table of Contents`
 
-find
-hide
-show
-html
-text
-val
-append
-prepend 
-css
-attr
-data
-on
-off
-each
+- [find](#find)
+- [hide](#hide)
+- [show](#show)
+- [html](#html)
+- [text](#text)
+- [val](#val)
+- [append](#append)
+- [prepend](#prepend)
+- [css](#css)
+- [attr](#attr)
+- [data](#data)
+- [on](#on)
+- [off](#off)
+- [each](#each)
 
 ## `.find`
 
@@ -299,7 +299,8 @@ $( 'p' ).data( 'thing', 'ourData' )
 $('p').data('someNewKey', 'some new data')
 ```
 
-## `.on` - Event Listener!!!
+## `.on` 
+## `- Event Listener!!!`
 
 > Attach a function to the page that will be run on a certain event. The `.on` is the "listener" that will run our "handler" (callback function) when the event occurs.
 
